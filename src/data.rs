@@ -29,7 +29,7 @@ pub fn fetch_products(_settings: &Settings) -> Vec<Product> {
             name: "Logitech G PRO X Superlight 2 Wireless Gaming Mouse".to_string(),
             price: 239.99,
             description: "Get superior precision and ergonomics for your esport adventures with the Logitech G PRO X Superlight 2 wireless gaming mouse. It tracks your smallest move on almost any surface with its 44,000 DPI HERO 2 sensor while the LIGHTFORCE hybrid optical-mechanical switches actuate at ultralow latencies. Along with USB-C charging, this mouse gives you up to 95 hours of battery durability.".to_string(),
-            image: "/logitech-superlight2".to_string()
+            image: "/logitech-superlight2.jpg".to_string()
         },
         Product {
             id: 5,
